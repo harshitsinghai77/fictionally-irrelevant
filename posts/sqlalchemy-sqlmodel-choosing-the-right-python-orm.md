@@ -1,6 +1,6 @@
 ---
 title: "SQLAlchemy vs SQLModel: Choosing the Right Python ORM"
-excerpt: "TWhen it comes to Python ORMs, SQLAlchemy has been the go-to choice for years, offering unparalleled flexibility and power. Now, SQLModel, a newer ORM built on top of SQLAlchemy with Pydantic, has joined the scene. Which one suits your needs best? Let’s break it down."
+excerpt: "When it comes to Python ORMs, SQLAlchemy has been the go-to choice for years, offering unparalleled flexibility and power. Now, SQLModel, a newer ORM built on top of SQLAlchemy with Pydantic, has joined the scene. Which one suits your needs best? Let’s break it down."
 coverImage: "https://images.unsplash.com/photo-1509565840034-3c385bbe6451?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 date: "2024-02-24T12:04:07.322Z"
 author:
@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-If you’ve spent any time working with Python and databases, chances are you’ve heard of SQLAlchemy. It’s been the gold standard for database interactions in Python since 2005, and its feature set and reliability have made it a favorite for developers. But now, there’s a new player in the game: SQLModel. Created by the developer of FastAPI, SQLModel combines the best of SQLAlchemy with modern Python features like type hints and Pydantic for data validation.
+If you’ve spent any time working with Python and databases, chances are you’ve heard of SQLAlchemy. It’s been the gold standard for database interactions in Python, and its feature set and reliability have made it a favorite for developers. Created by the developer of FastAPI, SQLModel combines the best of SQLAlchemy with modern Python features like type hints and Pydantic for data validation.
 
 Let’s explore these two ORMs and see how they compare across complexity, learning curve, and community support.
 
@@ -20,7 +20,7 @@ Instead of writing raw SQL queries to interact with your database, an ORM lets y
 SQLAlchemy and SQLModel are both ORMs, but they approach this task differently. While SQLAlchemy is a comprehensive tool designed to handle just about anything, SQLModel takes a more streamlined approach, catering to developers who prefer simplicity and modern Python conventions.
 
 ### Complexity: The Core Difference
-SQLAlchemy is a powerhouse. It gives you fine-grained control over database interactions, supports complex relationships, and allows for advanced query optimization. This makes it ideal for large, intricate applications. However, with all that power comes complexity. Managing sessions, understanding its ORM mechanics, and setting up your project can feel overwhelming for beginners.
+SQLAlchemy gives you fine-grained control over database interactions, supports complex relationships, and allows for advanced query optimization. This makes it ideal for large, intricate applications. However, it is complex and has a more steep learning curve. Managing sessions, understanding its ORM mechanics, and setting up your project can feel overwhelming for beginners.
 
 SQLModel, on the other hand, was designed with simplicity in mind. It builds on SQLAlchemy’s foundation but introduces features like Pydantic-based data validation and type hints. These modern Python practices make SQLModel more intuitive and easier to use, especially for small to medium projects. That said, SQLModel doesn’t yet offer the same depth of features for handling complex database scenarios.
 

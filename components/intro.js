@@ -5,18 +5,17 @@ export default function Intro() {
         Fictionally Irrelevant.
       </h1>
       <h4 className="text-center xl:text-left lg:text-left text-lg mt-5 lg:pl-8">
-        As a Data Engineer, I craft data pipelines and explore the potential of
-        AI, leveraging my diverse software engineering background gained in
-        startups and consulting. When not building tech stacks, you'll find me
-        with a book in hand, supporting Chelsea FC, or building my next side
-        project 🧑‍💻 🚀
+        I started my journey as a Software Engineer, spent a few years as a Data Engineer, and am now working as an AI Engineer. 
+        This allows me to leverage a diverse engineering background—built across startups and consulting—to create intelligent, 
+        scalable systems. When not building tech stacks, you'll find me with a book in hand, supporting Chelsea FC, 
+        or building my next side project 🧑‍💻 🚀
         <br />
         <a
-          href="https://nemo-landing-page.netlify.app/"
+          href="https://nemo-ai.netlify.app/"
           target="_blank"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Current Side Project - Nemo
+          Current Side Project - NemoAI
         </a>
         <br />
         <div className="flex flex-row mt-4 justify-center xl:justify-start">

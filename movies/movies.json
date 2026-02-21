@@ -2,10 +2,129 @@
     "updated_at": "12-29-2020",
     "movies": [
         {
+            "title": "Captain America: Brave New World",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZGZlZWMyZDUtNGMxYS00NmNhLTliNTgtZmYzNDg0NmJmNDRhXkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2025-08-02T03:40:12.851563Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Thunderbolts*",
+            "imgURL": "https://cdn.marvel.com/content/1x/thunderboltsposter_0.jpeg",
+            "description": "Todo...",
+            "date": "2025-09-07T03:40:12.851563Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Bhool Chuk Maaf",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjIyMTZiMGEtNmIyYi00MGI1LWFmY2MtYTMyZjBlYzljMDFlXkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2025-06-20T22:36:16.273286Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Dolittle",
+            "imgURL": "https://m.media-amazon.com/images/I/81TY+y57HeL._UF1000,1000_QL80_.jpg",
+            "description": "Todo...",
+            "date": "2025-03-20T22:32:29.239971Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Scent of a Woman",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNzc5ODg2NzMtYTQ4MS00MWFiLWI5NWMtNWNkODNmZjE0ZGVjXkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2025-05-26T16:04:27.646435Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Fair Play",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNjkxYjNkMGMtOTkyNC00YTRhLWIyZDctNmFmZjYxNjEwMDdjXkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2025-03-30T15:14:12.591555Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Miller's Girl",
+            "imgURL": "https://m.media-amazon.com/images/S/pv-target-images/84d1e6b6059a48253977cf905ec0340b8bd95127c1b2084a5e1ab084509c4c4f.jpg",
+            "description": "Todo...",
+            "date": "2025-03-22T14:05:31.263284Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Emergency",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BOWExOGU1YTItYTcxNi00MDAwLTgwNGQtYzIzNWFkOWUxYzk0XkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2025-03-12T14:04:56.510358Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Moneyball",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2025-02-22T14:04:26.517821Z",
+            "type": "Movie"
+        },
+        {
+            "title": "The Hunt",
+            "imgURL": "https://images.moviesanywhere.com/4e870af2fdd21952e6f189107d60299d/f4c14a1b-9b8c-4a8e-bc87-190a51e1034f.jpg",
+            "description": "Todo...",
+            "date": "2025-02-19T09:26:06.496731Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Meet Joe Black",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjVjNjAwYWItMDc0ZC00MTEwLWJiN2MtM2U4YThjNWE5YTZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "description": "Todo...",
+            "date": "2025-02-11T21:42:26.203971Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Teri Baaton Mein Aisa Uljha Jiya",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BOThmN2E5MjctMjZjNC00M2U1LTkxZTMtMzQ3MjM0ODIzNjAxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "description": "Todo...",
+            "date": "2025-02-09T13:51:25.571743Z",
+            "type": "Movie"
+        },
+        {
+            "title": "I Could Never Be Your Woman",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BZWE0MDZhNDUtYmJlNC00MjhmLTlhZjQtNTc2OTA4YjcwNDE0XkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2025-01-17T23:52:50.917609Z",
+            "type": "Movie"
+        },
+        {
+            "title": "A Real Pain",
+            "imgURL": "https://cdn.craft.cloud/1103379d-4ffe-42c9-aa61-6a0f9497fce6/assets/film/a-real-pain/a-real-pain-poster.jpg?width=800&quality=80&fit=contain&s=zN3u1bxFxTQtgLmN8IhYGRnUsC4860wEjnq2LEekDfM",
+            "description": "Todo...",
+            "date": "2025-01-12T16:13:04.248217Z",
+            "type": "Movie"
+        },
+        {
+            "title": "The Idea of You",
+            "imgURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0gG3DTq4oRc_SW7aHjZOQG5rIeEmGk0mSN73JEXqeHQuziPJG",
+            "description": "Todo...",
+            "date": "2025-01-10T01:09:01.092887Z",
+            "type": "Movie"
+        },
+        {
+            "title": "In the Bedroom",
+            "imgURL": "https://lh6.googleusercontent.com/proxy/tpf5-Eem-W0qPMAoRDCAeIwVl2NWR-9EP_tFjvwLzjMXtA0l8yGocpzzR6i3Z2jTbY540kdcJhD2fLwSwBv2tMzQEqP-teT_to_cjoVrl00",
+            "description": "Todo...",
+            "date": "2025-01-04T16:48:45.734653Z",
+            "type": "Movie"
+        },
+        {
             "title": "Ready or Not",
             "imgURL": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfl2H2Hd7Lf3_4QEElNKG-XKZLpNDHziIfKaVKBn8X_HIPeewbZNbCGybVuZj8yjOusBm5",
             "description": "Todo...",
-            "date": "2024-12-06T05:35:07.322Z",
+            "date": "2024-12-15T05:35:07.322Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Enough Said",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjI2MjIwMDk2Ml5BMl5BanBnXkFtZTcwNTQ1MzQ5OQ@@._V1_FMjpg_UX1000_.jpg",
+            "description": "Todo...",
+            "date": "2024-12-02T05:35:07.322Z",
             "type": "Movie"
         },
         {
@@ -20,6 +139,13 @@
             "imgURL": "https://m.media-amazon.com/images/M/MV5BYmRkOWQ1NDItYTk2ZC00YWM2LWE4ZWEtNjIwNTczMmRmZjc3XkEyXkFqcGc@._V1_.jpg",
             "description": "Todo...",
             "date": "2024-11-18T14:13:17.231760Z",
+            "type": "Movie"
+        },
+        {
+            "title": "Stree 2",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNWIzZjVmN2EtNGEyMy00MzVlLWIxMmItZjYzZGVjMzQ3N2VkXkEyXkFqcGc@._V1_.jpg",
+            "description": "Todo...",
+            "date": "2024-08-25T22:36:16.273286Z",
             "type": "Movie"
         },
         {
@@ -51,13 +177,6 @@
             "type": "Movie"
         },
         {
-            "title": "Lethal Seduction",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BMjI4MzA3NDA2N15BMl5BanBnXkFtZTgwODg1MTQzNzE@._V1_FMjpg_UX1000_.jpg",
-            "description": "Todo...",
-            "date": "2024-07-15T16:15:35.658161Z",
-            "type": "Movie"
-        },
-        {
             "title": "Onward",
             "imgURL": "https://lumiere-a.akamaihd.net/v1/images/p_onward_19732_09862641.jpeg?region=0%2C0%2C540%2C810",
             "description": "Todo...",
@@ -66,7 +185,7 @@
         },
         {
             "title": "Dunki",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_.jpg",
+            "imgURL": "https://m.media-amazon.com/images/I/91zOCNs+x-L.jpg",
             "description": "Todo...",
             "date": "2024-02-18T05:35:07.322Z",
             "type": "Movie"
@@ -94,7 +213,7 @@
         },
         {
             "title": "Love at First Sight",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BNDIzMzQ1ZTUtZjhkYS00ZTYzLTkxZTgtYWZlNzhhMWM0NTk5XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_.jpg",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNjMxMmNkZjUtNTUwMy00ODYwLWI5MjUtNDBmNGY5Mzc3N2JhXkEyXkFqcGc@._V1_.jpg",
             "description": "Todo...",
             "date": "2023-12-04T05:35:07.322Z",
             "type": "Movie"
@@ -108,21 +227,21 @@
         },
         {
             "title": "Falling Inn Love",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BNWE1NmMzNjUtMDc3NS00ZjBlLTllMTktZTVkMWQzZGVlYzdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "imgURL": "https://upload.wikimedia.org/wikipedia/en/6/65/Falling_Inn_Love_poster.png",
             "description": "Todo...",
             "date": "2023-11-25T05:35:07.322Z",
             "type": "Movie"
         },
         {
             "title": "OMG 2",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BZjRjMjExMTMtOWZmNS00MzE0LTlhZTYtMDRjMjBmN2IzZjdhXkEyXkFqcGdeQXVyMTA1NTY0NzQ0._V1_.jpg",
+            "imgURL": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/omg-2-et00361712-1689772587.jpg",
             "description": "Todo...",
             "date": "2023-09-27T05:35:07.322Z",
             "type": "Movie"
         },
         {
             "title": "Rocky Aur Rani Kii Prem Kahaani",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BY2FlZTE5ZjgtZGY5Ny00ZjIzLWFmZjktNjc1OWIwZjIwN2IzXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BMzBiYTgyZWUtYTZlYi00ZWQyLTk0MjQtY2YxOGJkOWMyMGVhXkEyXkFqcGc@._V1_.jpg",
             "description": "Todo...",
             "date": "2023-09-17T05:35:07.322Z",
             "type": "Movie"
@@ -178,7 +297,7 @@
         },
         {
             "title": "YOU Season4 Part 2",
-            "imgURL": "https://www.thenews.com.pk/assets/uploads/updates/2023-01-09/1028778_1560703_Untitled-2gio_updates.jpg",
+            "imgURL": "https://dramasanddreams.wordpress.com/wp-content/uploads/2023/03/fdcjt2dx0amja5k.jpeg",
             "description": "Todo...",
             "date": "2023-03-10T05:35:07.322Z",
             "type": "Tv Show"
@@ -192,7 +311,7 @@
         },
         {
             "title": "An Action Hero",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BMDJiOTdmMGItMmM5MC00ZTRiLWIzNjctNDE4ZTZkMWMzZTg0XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_FMjpg_UX1000_.jpg",
+            "imgURL": "https://m.media-amazon.com/images/M/MV5BNWUzNzljNjMtYTdiZS00MWQ2LWFkZWItYTM0MzVmZGFhYzNjXkEyXkFqcGc@._V1_.jpg",
             "description": "Todo...",
             "date": "2023-02-11T05:35:07.322Z",
             "type": "Movie"
@@ -234,14 +353,14 @@
         },
         {
             "title": "Laal Singh Chaddha",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BMTY4YjFhMzUtMWIxMC00NDI2LTgxOGYtMDM1ZGQ1ZDUxZTE0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+            "imgURL": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20824854_p_v13_aa.jpg",
             "description": "Todo...",
             "date": "2022-10-18T05:35:07.322Z",
             "type": "Movie"
         },
         {
             "title": "Badhaai Do",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BZjExNGM5MTMtNTFlNy00OThlLTlhYzctOWEzZjQ4MWY3YTUyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
+            "imgURL": "https://i.scdn.co/image/ab67616d0000b273d97ded7a21b3785ed6696fb7",
             "description": "Todo...",
             "date": "2022-03-18T05:35:07.322Z",
             "type": "Tv Show"
@@ -276,7 +395,7 @@
         },
         {
             "title": "Every Day",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BZTQ0OWM4MTItNmY4NC00ZDMyLTkxZWYtNTU5ZGY4NjBlNWM3XkEyXkFqcGdeQXVyODI1MzgzNjM@._V1_.jpg",
+            "imgURL": "https://resizing.flixster.com/VfgWjUacZBwVvDWnyyBsQRLirBQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBjNTA3ZDlhLWFmNjAtNDI5OS05NjY2LWMxYjc1ZjQ1ZDIxNS53ZWJw",
             "description": "Todo...",
             "date": "2022-01-15T05:35:07.322Z",
             "type": "Movie"
@@ -360,14 +479,14 @@
         },
         {
             "title": "The Perfect Date",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BZGRhOWM5MzQtM2FlNi00Zjc5LThmZmUtZTI2NzY0MTA1YjM2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+            "imgURL": "https://jenrosewrites.wordpress.com/wp-content/uploads/2019/10/img_0259.jpg",
             "description": "Hmm. This is a typical feel good movie. Nothing to take home. Will keep you interested while it lasts, probably put a smile on your face and that's it. The actress is hot but wear's too much makeup. I looked at her instagram, she isn't as good looking as she was in the movie. Too much makeup, but hot nonetheless. I would recommend if you're looking for a light watch movie after a very hard-working day...",
             "date": "2020-08-16T05:35:07.322Z",
             "type": "Movie"
         },
         {
             "title": "The Queen's Gambit",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg",
+            "imgURL": "https://cdn-images.dzcdn.net/images/cover/8616943101e9c41d7b2bcd8150a078bd/0x1900-000000-80-0-0.jpg",
             "description": "Totally worth it. Past paced episodes, didn't feel like much of a lag. The whole life of the protagonist is captured in 8 episodes, all the way from prodigy, reaching the top, not able to sustain it, alcholism and self-centered, downfall and then rise again to the stardom. This is close to being a masterpeice. Every scene is made with perfection. Great sets, captured 1900's beautifully.",
             "date": "2020-11-18T05:35:07.322Z",
             "type": "Tv Show"
@@ -388,7 +507,7 @@
         },
         {
             "title": "Money Heist",
-            "imgURL": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "imgURL": "https://www.tallengestore.com/cdn/shop/products/MoneyHeist4-NetflixTVShowPoster_adf9e3a9-35ca-4815-9804-8261e633bec8.jpg?v=1589268602",
             "description": "Interesting. Some episodes were really slow and can't wait to finish them. Lots of good plot twist. Didn't watch the last season tho. I think it's getting a little stretched now. First couple of season were good. I still have to watch the last season, but have no such plans at the moment. It surely has it's moment, biggest strengths being it's unpredicatable nature, lots of twists (really lot) and creative writing. Overall, I'll recommend you to watch it but not force you.",
             "date": "2020-07-08T05:35:07.322Z",
             "type": "Tv Show"
