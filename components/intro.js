@@ -5,7 +5,7 @@ export default function Intro() {
         Fictionally Irrelevant.
       </h1>
       <h4 className="text-center xl:text-left lg:text-left text-lg mt-5 lg:pl-8">
-        I started my journey as a Software Engineer, spent a few years as a Data Engineer, and am now working as an AI Engineer. 
+        Hi, I'm Harshit. I began my career as a Frontend Engineer, transitioned into Software Engineering - Backend, spent a few years as a Data Engineer, and am now working as an AI Engineer. 
         This allows me to leverage a diverse engineering background—built across startups and consulting—to create intelligent, 
         scalable systems. When not building tech stacks, you'll find me with a book in hand, supporting Chelsea FC, 
         or building my next side project 🧑‍💻 🚀

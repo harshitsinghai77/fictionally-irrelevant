@@ -1,7 +1,7 @@
 ---
 title: "Agentic RAG Strategies for Consumer-Facing Chatbot"
 excerpt: "Building a consumer-ready AI agent doesn't always require a massive architectural overhaul. Sometimes, a few simple strategies is all you need to make an Agentic RAG app feel relevant and smart."
-coverImage: "https://images.unsplash.com/photo-1684369175833-4b445ad6bfb5?q=80&w=1096&auto=format"
+coverImage: "https://images.unsplash.com/photo-1507477338202-487281e6c27e?q=80&w=1170&auto=format"
 date: "2026-02-21T13:06:00.000Z"
 author:
   name: Harshit Singhai
